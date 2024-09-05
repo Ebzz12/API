@@ -1,0 +1,1 @@
+This repository contains an API that that was created for my coursework during university. The API shows my back end development skills. It contains mechanisms for an software engineer building a search engine website for movies. 
